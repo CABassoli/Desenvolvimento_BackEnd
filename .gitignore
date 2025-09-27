@@ -1,0 +1,41 @@
+# ===============================
+# Pastas de build e cache
+# ===============================
+/build/
+/bin/
+/target/
+/.gradle/
+
+# ===============================
+# IDEs e ambientes
+# ===============================
+.vscode/
+.idea/
+.settings/
+/.config/
+__pycache__/
+
+.classpath
+.project
+*.iml
+*.tmp
+
+# ===============================
+# Arquivos compilados
+# ===============================
+*.class
+*.log
+*.pyc
+
+# ===============================
+# Replit
+# ===============================
+*.replit*
+replit.nix
+
+# ===============================
+# Sistema / Outros
+# ===============================
+.DS_Store
+Thumbs.db
+
